@@ -170,7 +170,7 @@ ol.bsf-li-counter {
     color: #444;
     box-shadow: none;
     outline: none;
-    box-shadow: 0 10px 36px -6px rgba(22, 35, 49, 0.25);
+    // box-shadow: 0 10px 36px -6px rgba(22, 35, 49, 0.25);
 }
 .btn-btn-purple {
 	background-color:rgba(247,21,104,0.9);
