@@ -165,7 +165,7 @@ ol.bsf-li-counter {
 }
 .btn-btn-grey:hover,
 .btn-btn-grey:active {
-    /*background-color: #d7d7d7;*/
+    background-color: #d7d7d7;
     border-color: #ccc;
     color: #444;
     box-shadow: none;
